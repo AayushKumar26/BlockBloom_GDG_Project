@@ -1,4 +1,4 @@
-# Simple Voting DApp
+# Simple Voting DApp (Final Task)
 
 ## Description
 The Simple Voting DApp is a decentralized application built on Ethereum that allows users to cast votes for predefined candidates. Designed with simplicity and functionality in mind, this application leverages smart contracts to ensure secure, transparent, and tamper-proof voting. It provides a user-friendly interface to connect with MetaMask, view the list of candidates, cast a vote, and determine the winner of the election.
